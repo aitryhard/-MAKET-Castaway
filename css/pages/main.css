@@ -1,0 +1,111 @@
+.main {
+    margin-top: 100px;
+}
+
+.main__episodes-title {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+    color: white;
+}
+
+.main__episodes-button {
+    margin-top: 30px;
+}
+
+.main__episodes {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px 0px 80px;
+}
+
+.episodes__button {
+    width: 178px;
+    height: 51px;
+    border-radius: 6px;
+    background-color: #118DA8;
+    color: white;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.main__episodes-right {
+    margin-left: 50px;
+}
+
+.main__episodes-article {
+    background-color: black;
+    width: 1300px;
+    height: 545px;
+    border-radius: 32px;
+    display: flex;
+    margin: 70px auto;
+}
+
+.episodes__article-image {
+    width: 389px;
+    height: 465px;
+    margin-top: 40px;
+    margin-left: 35px;
+}
+
+.episodes__article-tag {
+    display: inline-block;
+    padding: 0px 16px 0px 16px;
+    border-radius: 6px;
+    color: white;
+    background-color: #191919;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.episodes__article-count {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    color: #118DA8;
+    margin-top: 50px;
+}
+
+.episodes__article-title {
+    width: 701px;
+    height: 141px;
+    font-weight: 400;
+    color: white;
+    font-size: 64px;
+    line-height: 70.4px;
+    letter-spacing: 2.56px;
+    margin-top: 20px;
+}
+
+.episodes__article-info {
+    width: 757px;
+    height: 99px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0%;
+    color: rgb(164, 164, 164);
+    margin-top: 20px;
+}
+
+.article__button-name {
+    width: 208px;
+    height: 51px;
+    border-radius: 6px;
+    background-color: #118DA8;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+}
