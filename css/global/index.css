@@ -1,4 +1,6 @@
-@import url(../pages/header.css);
-@import url(../pages/main.css);
+@import url(../pages/header/head.css);
+@import url(../pages/main/episodes.css);
+@import url(../pages/main/host.css);
+@import url(../pages/main/form.css);
 @import url(./null.css);
 @import url(./fonts.css);

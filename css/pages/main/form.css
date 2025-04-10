@@ -1,0 +1,80 @@
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.form-container {
+    background-color: black;
+    width: 1300px;
+    height: 387px;
+    border-radius: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-title {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    color: #118DA8;
+}
+
+.form-text{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+    color: white;
+    width: 431px;
+}
+
+.form-name input {
+    width: 522px;
+    height: 82px;
+    border-radius: 6px;
+    background-color: #191919;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    padding: 26px 438px 27px 19px;
+}
+
+.form-email input {
+    width: 522px;
+    height: 82px;
+    border-radius: 6px;
+    background-color: #191919;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    margin-top: 20px;
+    padding: 26px 438px 27px 19px;
+}
+
+.form-button input {
+    width: 87px;
+    height: 48px;
+    border-radius: 6px;
+    background-color: #118DA8;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28.8px;
+    margin-top: 20px;
+}
+
+.form-left {
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.form-right {
+    margin-right: 40px;
+    margin-top: 60px;
+}

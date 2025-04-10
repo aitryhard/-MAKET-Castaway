@@ -1,0 +1,44 @@
+.host {
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 80px 0px 80px;
+}
+
+.host-left {
+    padding-top: 150px;
+}
+
+.host-hello {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    color: #118DA8;
+    margin-top: 30px;
+}
+
+.host-name {
+    color: white;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 79.2px;
+    letter-spacing: 2.88px;
+}
+
+.host-info {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0%;
+    color: rgb(164, 164, 164);
+    margin-top: 30px;
+}
+
+.info-top {
+    width: 556px;
+}
+
+.info-buttom {
+    margin-top: 40px;
+    width: 528px;
+}
